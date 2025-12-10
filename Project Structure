@@ -1,0 +1,9 @@
+ai-chatbot/
+├── app.py
+├── requirements.txt
+├── .env
+├── static/
+│   ├── style.css
+│   └── script.js
+└── templates/
+    └── index.html
